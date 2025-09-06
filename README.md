@@ -1,25 +1,46 @@
-# Hi, I’m Shiwansh 👋
+# 👋 Hi, I'm Shiwansh Bind
 
-**Technical Head & Creative Media Specialist**
-- Leading technical and media initiatives at Innovation Hub Coaching Classes and Shubhaarambh Events
-- Skilled in video editing (Adobe After Effects & DaVinci Resolve) and graphic design (Photoshop & Illustrator)
+## 🎓 BCA Student | 🎬 Creative Media Specialist | 💻 Aspiring Software Developer
 
----
-
-##  Connect with Me
-
--  [Instagram](https://www.instagram.com/pwfplayz_)
--  [X (Twitter)](https://x.com/shiwansh_bind)
--  [Reddit](https://www.reddit.com/user/shibbu_pwf_dev)
--  [LinkedIn](https://www.linkedin.com/in/shiwansh-bind-aa5983382/)
+I am a passionate **Technical Head and Creative Media Specialist**, currently leading teams at **Innovation Hub Coaching Classes** and **Shubhaarambh Events**, overseeing video editing, graphic design, event media production, and website projects. I combine **technical execution** with **creative vision** to deliver high-quality results.
 
 ---
 
-##  About Me
-- BCA Student at **ICFAI Tech University**
-- Passionate about **event media production**, **PC building**, and marrying technical precision with creative storytelling
-- National-level **Beatboxer**, **volleyball player**, and Rubik’s Cube solver (3x3 & 4x4)
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiwansh-bind-aa5983382/)  
+- 📸 [Instagram](https://www.instagram.com/pwfplayz_)  
+- 🐦 [X/Twitter](https://x.com/shiwansh_bind)  
+- 👽 [Reddit](https://www.reddit.com/user/shibbu_pwf_dev)  
 
 ---
 
-*"Blending creativity, leadership, and technical skill to craft impactful experiences."*
+## 🛠️ Skills & Tools
+
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=blackberry&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
+
+---
+
+## 💡 About Me
+
+- BCA Student at **ICFAI Tech University**  
+- Technical Head at **Innovation Hub Coaching Classes** & **Shubhaarambh Events**  
+- Experienced in **video editing, graphic design, and event media production**  
+- Passionate about **PC building, software engineering, and creative media**  
+
+---
+
+## 🎮 Hobbies & Interests
+
+- 🏐 Volleyball  
+- 🧩 Rubik's Cube (3x3 & 4x4)  
+- 🎤 National-Level Beatboxer  
+- 🎧 Audiophile  
+- 🎮 Souls-like games enthusiast  
+
+---
+
+✨ *“Blending creativity, leadership, and technical skill to craft impactful experiences.”*
