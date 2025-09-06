@@ -23,7 +23,7 @@
 
 #### Creative Tools  
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)  
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=blackberry&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=blackmagicdesign&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
@@ -51,7 +51,6 @@
 
 ---
 
-
 ### 🎮 Beyond Work  
 
 - 🏐 Volleyball player  
@@ -64,8 +63,24 @@
 
 ### 📊 GitHub Stats  
 
-![Shiwansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwansh-bind&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwansh-bind&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwansh-bind&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiwansh-bind&theme=radical)  
+
+---
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=shiwansh-bind&theme=radical&no-frame=true&margin-w=10)  
+
+---
+
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/shiwansh-bind/shiwansh-bind/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+### 📈 Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiwansh-bind&theme=radical)  
 
 ---
 
