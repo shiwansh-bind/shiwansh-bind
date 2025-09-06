@@ -79,10 +79,10 @@
 
 
 ---
-
+<!--
 ### 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiwansh-bind&theme=radical)  
-
+-->
 ---
 
 ✨ *“Blending creativity, leadership, and technical skill to craft impactful experiences.”*  
