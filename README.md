@@ -73,16 +73,16 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shiwansh-bind&theme=radical&no-frame=true&margin-w=10)  
 
 ---
-
+<!--
 ### 🐍 Contribution Snake  
 ![Snake animation](https://github.com/shiwansh-bind/shiwansh-bind/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 ---
-<!--
+
 ### 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiwansh-bind&theme=radical)  
--->
+
 ---
 
 ✨ *“Blending creativity, leadership, and technical skill to craft impactful experiences.”*  
