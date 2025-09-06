@@ -1,30 +1,25 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual trigger
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: shiwansh-bind
           outputs: dist/github-contribution-grid-snake.svg
-          # Add extra themes
-          # Example: dark, light, rainbow
-          snake_color: 'rainbow'
-          color_snake: '#ff9800'
-          color_dots: '#444444'
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
