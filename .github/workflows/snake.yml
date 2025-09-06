@@ -16,8 +16,8 @@ jobs:
           github_user_name: shiwansh-bind
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload to GitHub
-        uses: actions/upload-artifact@v3
+      - name: Upload Snake SVG
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
